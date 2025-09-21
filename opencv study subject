@@ -27,4 +27,5 @@ for i in range(n):
     y=cv2.moments(contours[i])['m01']
     print(f"区域{i+1}的坐标为({x},{y})")
 #=======计算轮廓的重心坐标========
+cv2.waitKey(0)
 cv2.destroyAllWindows()
