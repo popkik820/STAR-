@@ -24,5 +24,5 @@ delay(1000);
 degree = 135;
 myservo.write(degree);
 delay(1000); 
-
+  
 }
