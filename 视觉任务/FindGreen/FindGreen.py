@@ -1,8 +1,7 @@
 import cv2
 import numpy as np
 
-o="D:\opencvLeaningResource\circle.webp"
-img=cv2.imread(o)
+img=cv2.imread("circle.png")
 #=======读取数据=========
 img_HSV=cv2.cvtColor(img,cv2.COLOR_BGR2HSV)
 #=======转换为HSV格式========
