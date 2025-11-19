@@ -1,8 +1,7 @@
 import cv2
 import numpy as np
 
-forest="D:\opencvLeaningResource\Woods.mp4"
-cap=cv2.VideoCapture(forest)
+cap=cv2.VideoCapture("Woods.mp4")
 while(cap.isOpened()):
     ret,frame=cap.read()
     img_HSV=cv2.cvtColor(frame,cv2.COLOR_BGR2HSV)
