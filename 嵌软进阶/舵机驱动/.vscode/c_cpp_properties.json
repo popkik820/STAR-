@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "c:\\Users\\popkik\\Desktop\\舵机驱动\\Start",
-                "c:\\Users\\popkik\\Desktop\\舵机驱动\\Library",
-                "c:\\Users\\popkik\\Desktop\\舵机驱动\\User",
-                "c:\\Users\\popkik\\Desktop\\舵机驱动\\System",
-                "c:\\Users\\popkik\\Desktop\\舵机驱动\\Hardware",
+                "c:\\Users\\popkik\\Desktop\\STAR-\\嵌软进阶\\舵机驱动\\Start",
+                "c:\\Users\\popkik\\Desktop\\STAR-\\嵌软进阶\\舵机驱动\\Library",
+                "c:\\Users\\popkik\\Desktop\\STAR-\\嵌软进阶\\舵机驱动\\User",
+                "c:\\Users\\popkik\\Desktop\\STAR-\\嵌软进阶\\舵机驱动\\System",
+                "c:\\Users\\popkik\\Desktop\\STAR-\\嵌软进阶\\舵机驱动\\Hardware",
                 "D:\\Keil5\\ARM\\ARMCC\\include",
                 "D:\\Keil5\\ARM\\ARMCC\\include\\rw"
             ],

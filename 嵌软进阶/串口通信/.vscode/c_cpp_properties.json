@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "c:\\Users\\popkik\\Desktop\\串口通信\\Start",
-                "c:\\Users\\popkik\\Desktop\\串口通信\\Library",
-                "c:\\Users\\popkik\\Desktop\\串口通信\\User",
-                "c:\\Users\\popkik\\Desktop\\串口通信\\System",
-                "c:\\Users\\popkik\\Desktop\\串口通信\\Hardware",
+                "c:\\Users\\popkik\\Desktop\\STAR-\\嵌软进阶\\串口通信\\Start",
+                "c:\\Users\\popkik\\Desktop\\STAR-\\嵌软进阶\\串口通信\\Library",
+                "c:\\Users\\popkik\\Desktop\\STAR-\\嵌软进阶\\串口通信\\User",
+                "c:\\Users\\popkik\\Desktop\\STAR-\\嵌软进阶\\串口通信\\System",
+                "c:\\Users\\popkik\\Desktop\\STAR-\\嵌软进阶\\串口通信\\Hardware",
                 "D:\\Keil5\\ARM\\ARMCC\\include",
                 "D:\\Keil5\\ARM\\ARMCC\\include\\rw"
             ],
